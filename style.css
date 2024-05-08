@@ -10,8 +10,7 @@ body{
     position: fixed;
     top: 0;
     left: 0;
-    height: 100px;
-    width: 100%;
+    padding: 45px 100%
     border-width: 10px;
     border-color: white;
     /* box-sizing: border-box; */
